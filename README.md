@@ -1,5 +1,5 @@
 # JesseLabs
-Hello World!
+Hello World! (＾-＾)＿日
 
 This is my learning progress.
 I am creating my first repository,
@@ -9,4 +9,4 @@ I have learned a lot with this class!
 
 Thank you for being my audience! 
 
-P.S. Please hire me \(0.0)/ 
+P.S. Please hire me (づ ◕‿◕ )づ 
